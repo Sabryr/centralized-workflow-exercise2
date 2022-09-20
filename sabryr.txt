@@ -1,0 +1,2 @@
+# To find which file contains the text **find this**, use the command
+git grep "find this"
